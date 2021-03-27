@@ -1,0 +1,16 @@
+.count{
+    position: absolute;
+    top: 44%;
+    left: 38%;
+}
+body{
+    background-image: url(/wp4506500.jpg);
+}
+h1{
+    position: absolute;
+    color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    top: 10%;
+    left: 33%;
+}
